@@ -1,5 +1,5 @@
 ---
-title: "Joe"
+title: "Joe Connolly"
 author: ""
 date: ""
 output: html_document
