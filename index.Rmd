@@ -15,8 +15,12 @@ output: html_document
 
 **Contributors:**
 
-* Joe Connolly (https://github.com/joeconnolly)
+* Joe Connolly^a^ (https://github.com/joeconnolly)
 
-* Chris Marshall (https://github.com/cmarshall178)
+* Chris Marshall^a^ (https://github.com/cmarshall178)
 
-* Other TBD
+* TBD^b^
+
+^a^ Cornell University, Department of Natural Resources, Cornell Biological Field Station, Bridgeport, NY 13030
+
+^b^ TBD
