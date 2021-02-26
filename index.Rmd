@@ -1,12 +1,11 @@
 ---
-title: " "
+title: "Rotifera of the Laurentian Great Lakes "
 author: " "
 date: " "
 output: html_document
 ---
 
 
-## Rotifera of the Laurentian Great Lakes 
 
 ### An Online Image Based Key to Planktonic Fauna
 
